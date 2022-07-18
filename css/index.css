@@ -1,0 +1,291 @@
+body{
+    margin: 0;
+    left: 0;
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+
+}
+#TopBar{
+    width: 1280px;
+    margin: 0 auto;
+    height: 50px;
+    color: white;
+    background-color: black;
+    
+}
+
+#bbclogo{
+    margin-top: 5px;
+    margin-right: 5px;
+    height: 40px;
+    float: left;
+}
+
+.section-top{
+    float: left;
+    border-left: 1px gray solid;
+    height: 100%;
+}
+
+.section-top:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+#blackpic{
+    width: 30px;
+    height: 25px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 8px;
+    float: left;
+}
+
+#signin{
+    font-weight: bold;
+    padding-right: 50px;
+    position: relative;
+    top: 14px;
+    font-size: 90%;
+}
+
+.mainhead{
+    position: relative;
+    top: 15px;
+    left: 16px;
+    padding-right: 40px;
+    font-weight: bold;
+    font-size: 85%;
+}
+#more{
+    position: relative;
+    top: 15px;
+    left: 16px;
+    font-size: 85%;
+    font-weight: bold;
+    float: left;
+    padding-right: 30px;
+}
+#more:hover{
+    text-decoration: underline;
+}
+
+#morearrow{
+    float: left;
+    margin-top: 14px;
+    margin-right: 50px;
+}
+#search{
+    border: 0px;
+    margin-left: 8px;
+    margin-top: 14px;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    float: left;
+    color: #858585;
+    background-color: #E4E4E4;
+}
+
+#searchic{
+    margin-top: 13px;
+    width: 24px;
+    height: 23px;
+    background-color: #E4E4E4;
+    
+}
+
+.clear{
+    clear: both;
+}
+
+#bigred{
+    width: 100%;
+    background-color: red;
+    height: 80px;
+}
+
+#innerred{
+    width: 1280px;
+    margin: 0 auto;
+    height: 60px;
+    
+   
+}
+#bignewstext{
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+  color: white;
+  padding-top: 5px;
+  font-size: 45px;
+}
+#second-red-container{
+    width: 100%;
+    height: 30px;
+    background-color: red;
+    
+}
+
+#second-red-menu{
+    width: 1280px;
+    margin: 0 auto;
+    height: 20px;
+    
+    
+}
+
+.red-menu{
+    font-size: 15px;
+    font-weight: normal;
+    color: white;
+    float: left;
+    border-right: 1px solid #BB4545;
+    border: height 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    
+    
+}
+
+.red-menu:hover{
+    color: black;
+}
+
+#page-container{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+h2{
+    font-weight: normal;
+    margin-top: 10px;
+    font-size: 20px;
+    border-bottom: 2px solid #a91717;
+    width: 105px;
+    
+}
+
+#anchhead{
+    text-decoration: none;
+    color: #1D1D1B;
+}
+
+#anchhead:hover{
+    color: #1167a8;
+}
+
+h1 a{
+    text-decoration: none;
+    color: #1D1D1B
+}
+
+h1 a:hover{
+   color: #1167a8;
+}
+
+#article-summary{
+    width: 250px;
+    color: #5A5A5A;
+    float: left;
+}
+
+#clock{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 1px;
+    padding-right: 2px;
+}
+
+#article-hr{
+    width: 50px;
+    color: blue;
+    margin-left: 15px;
+}
+
+#playBtn{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 1px;
+    padding-right: 2px;
+}
+
+#article-link{
+    text-decoration: none;
+    color: #1D1D1B;
+
+}
+
+#article-link:hover{
+    color: #1167a8;
+}
+
+#article-img{
+    width: 400px;
+    margin-left: 15px;
+}
+
+#article-container{
+    float: left;
+    width: 750px;
+    border-right: 2px solid black;
+    padding-right: 2px;
+}
+
+#main-article{
+    float: left;
+}
+
+#article-right{
+    width: 400px;
+    float: left;
+}
+
+
+#watch{
+    
+    color: #1D1D1B;
+    font-weight: normal;
+    padding-left: 10px;
+    
+
+}
+
+#firstright-article{
+    width: 530px;
+}
+
+.right-article-img{
+    width: 170px;
+    float: left;
+    border: 6px solid white;
+}
+
+.right-artcle-head{
+    width: 360px;
+}
+
+#firstright-article a {
+    text-decoration: none;
+    color: #1D1D1D;
+}
+
+#firstright-article a:hover{
+    color: #1167a8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
